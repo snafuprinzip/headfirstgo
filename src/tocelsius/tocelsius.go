@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/snafuprinzip/headfirstgo/keyboard"
+	"keyboard"
 )
 
 func main() {
