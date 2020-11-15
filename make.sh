@@ -5,4 +5,3 @@ for srcfile in src/*.go; do
 	go build -o bin $srcfile
 	echo " bin/"$(basename $srcfile | cut -d. -f1) 
 done
-
